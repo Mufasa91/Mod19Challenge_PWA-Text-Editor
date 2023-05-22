@@ -58,7 +58,7 @@ See LICENSE.txt for more information.
 
 <p align ="right">(<a href="#top">back to top</a>)</>
 
-Project Link: [https://github.com/ayacomputer/19-PWA-Text-Editor](https://github.com/ayacomputer/19-PWA-Text-Editor)
+Project Link: [https://github.com/Mufasa91/Mod19Challenge_PWA-Text-Editor](https://github.com/Mufasa91/Mod19Challenge_PWA-Text-Editor)
 
 <p align="right">(<a href="#top">back to top</a>)</>
 
