@@ -4,7 +4,7 @@
 
 This is a complete application that works in your web browser. It includes different methods to store data so that if one method doesn't work, there are backup options available. The app also works even when you're offline, and you can easily download and install it by clicking on an "install" button.
 
-[Click Here for the deployed app](https://ayacomputer-pwa-text-editor.herokuapp.com/)
+[Click Here for the deployed app](https://jate-appz.herokuapp.com/)
 
 ![ProductScreen Shot](./assets/product.png)
 
