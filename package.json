@@ -22,6 +22,7 @@
     "babel-loader": "^9.1.2",
     "express": "^4.18.2",
     "if-env": "^1.0.4",
+    "style-loader": "^3.3.3",
     "workbox-webpack-plugin": "^6.5.4"
   },
   "devDependencies": {
